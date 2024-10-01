@@ -1,0 +1,70 @@
+[
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3052734375,
+    "audio_to_audio_search_time": 0.005306243896484375,
+    "audio_to_melody_search_time": 0.004201650619506836,
+    "nlist": 284,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3404296875,
+    "audio_to_audio_search_time": 0.013063669204711914,
+    "audio_to_melody_search_time": 0.022524118423461914,
+    "nlist": 71,
+    "nprobe": 1
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1.0,
+    "average_intersection_rate": 0.4333984375,
+    "audio_to_audio_search_time": 0.014427661895751953,
+    "audio_to_melody_search_time": 0.014484167098999023,
+    "M": 4.0,
+    "efConstruction": 40.0,
+    "efSearch": 4.0
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1.0,
+    "average_intersection_rate": 0.527734375,
+    "audio_to_audio_search_time": 0.0029692649841308594,
+    "audio_to_melody_search_time": 0.0029845237731933594,
+    "M": 8.0,
+    "efConstruction": 320.0,
+    "efSearch": 4.0
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1.0,
+    "average_intersection_rate": 0.5646484375,
+    "audio_to_audio_search_time": 0.015631914138793945,
+    "audio_to_melody_search_time": 0.015521526336669922,
+    "M": 16.0,
+    "efConstruction": 640.0,
+    "efSearch": 4.0
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.59296875,
+    "audio_to_audio_search_time": 0.009964942932128906,
+    "audio_to_melody_search_time": 0.015442848205566406,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1.0,
+    "average_intersection_rate": 0.6322265625,
+    "audio_to_audio_search_time": 0.028304100036621094,
+    "audio_to_melody_search_time": 0.02578878402709961,
+    "M": 32.0,
+    "efConstruction": 2048.0,
+    "efSearch": 128.0
+  }
+]

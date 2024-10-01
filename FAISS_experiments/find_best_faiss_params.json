@@ -1,0 +1,5409 @@
+[
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.632421875,
+    "audio_to_audio_search_time": 0.4468686580657959,
+    "audio_to_melody_search_time": 0.20517826080322266,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.632421875,
+    "audio_to_audio_search_time": 0.2674884796142578,
+    "audio_to_melody_search_time": 0.20107746124267578,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.632421875,
+    "audio_to_audio_search_time": 0.8807559013366699,
+    "audio_to_melody_search_time": 0.8085789680480957,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6322265625,
+    "audio_to_audio_search_time": 0.15521836280822754,
+    "audio_to_melody_search_time": 0.017446279525756836,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6322265625,
+    "audio_to_audio_search_time": 0.19586920738220215,
+    "audio_to_melody_search_time": 0.051882028579711914,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.20845913887023926,
+    "audio_to_melody_search_time": 0.04232311248779297,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.38098669052124023,
+    "audio_to_melody_search_time": 0.06913542747497559,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.6411793231964111,
+    "audio_to_melody_search_time": 0.4083576202392578,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 1.1834216117858887,
+    "audio_to_melody_search_time": 1.1559412479400635,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.13390588760375977,
+    "audio_to_melody_search_time": 0.12832307815551758,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.17843294143676758,
+    "audio_to_melody_search_time": 0.20990252494812012,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.2513575553894043,
+    "audio_to_melody_search_time": 0.3318490982055664,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.8135180473327637,
+    "audio_to_melody_search_time": 0.34535837173461914,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.1670217514038086,
+    "audio_to_melody_search_time": 0.09607934951782227,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.24606728553771973,
+    "audio_to_melody_search_time": 0.22982096672058105,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.4437065124511719,
+    "audio_to_melody_search_time": 0.348602294921875,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63203125,
+    "audio_to_audio_search_time": 0.6163842678070068,
+    "audio_to_melody_search_time": 0.47807836532592773,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.222442626953125,
+    "audio_to_melody_search_time": 0.19118809700012207,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.33351969718933105,
+    "audio_to_melody_search_time": 0.19254803657531738,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.677922248840332,
+    "audio_to_melody_search_time": 0.2425224781036377,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.7207894325256348,
+    "audio_to_melody_search_time": 1.1055619716644287,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.05423569679260254,
+    "audio_to_melody_search_time": 0.16806960105895996,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.12197279930114746,
+    "audio_to_melody_search_time": 0.15478992462158203,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.17223048210144043,
+    "audio_to_melody_search_time": 0.05676746368408203,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.24125432968139648,
+    "audio_to_melody_search_time": 0.42861485481262207,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.5964112281799316,
+    "audio_to_melody_search_time": 0.7229838371276855,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.13516736030578613,
+    "audio_to_melody_search_time": 0.06276583671569824,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.13104534149169922,
+    "audio_to_melody_search_time": 0.22898125648498535,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.3070695400238037,
+    "audio_to_melody_search_time": 0.20916152000427246,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.47031188011169434,
+    "audio_to_melody_search_time": 0.4691166877746582,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.13379240036010742,
+    "audio_to_melody_search_time": 0.03734326362609863,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.3821451663970947,
+    "audio_to_melody_search_time": 0.16442418098449707,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.39069151878356934,
+    "audio_to_melody_search_time": 0.41745543479919434,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.7137722969055176,
+    "audio_to_melody_search_time": 0.417940616607666,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.052460432052612305,
+    "audio_to_melody_search_time": 0.10657072067260742,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.24422383308410645,
+    "audio_to_melody_search_time": 0.06075334548950195,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.5814430713653564,
+    "audio_to_melody_search_time": 0.28122520446777344,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.5959303379058838,
+    "audio_to_melody_search_time": 0.5216331481933594,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.06471824645996094,
+    "audio_to_melody_search_time": 0.09484624862670898,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.1760091781616211,
+    "audio_to_melody_search_time": 0.15756583213806152,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.21332907676696777,
+    "audio_to_melody_search_time": 0.21264076232910156,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.8675496578216553,
+    "audio_to_melody_search_time": 0.6706230640411377,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.10543704032897949,
+    "audio_to_melody_search_time": 0.13714098930358887,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.2559020519256592,
+    "audio_to_melody_search_time": 0.08867406845092773,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.2126026153564453,
+    "audio_to_melody_search_time": 0.21862125396728516,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6318359375,
+    "audio_to_audio_search_time": 0.4668161869049072,
+    "audio_to_melody_search_time": 0.6548585891723633,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "Flat",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.5911478996276855,
+    "audio_to_melody_search_time": 0.5000112056732178
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.05507373809814453,
+    "audio_to_melody_search_time": 0.05774736404418945,
+    "nlist": 50,
+    "nprobe": 28
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.0851893424987793,
+    "audio_to_melody_search_time": 0.09897232055664062,
+    "nlist": 50,
+    "nprobe": 50
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.049544334411621094,
+    "audio_to_melody_search_time": 0.05823373794555664,
+    "nlist": 50,
+    "nprobe": 28
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.0869903564453125,
+    "audio_to_melody_search_time": 0.10088944435119629,
+    "nlist": 50,
+    "nprobe": 50
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.04807233810424805,
+    "audio_to_melody_search_time": 0.0477447509765625,
+    "nlist": 50,
+    "nprobe": 28
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.09241557121276855,
+    "audio_to_melody_search_time": 0.0938115119934082,
+    "nlist": 50,
+    "nprobe": 50
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.04721546173095703,
+    "audio_to_melody_search_time": 0.0437014102935791,
+    "nlist": 71,
+    "nprobe": 32
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.09095287322998047,
+    "audio_to_melody_search_time": 0.08196687698364258,
+    "nlist": 71,
+    "nprobe": 64
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.05968880653381348,
+    "audio_to_melody_search_time": 0.05453753471374512,
+    "nlist": 142,
+    "nprobe": 88
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.053598880767822266,
+    "audio_to_melody_search_time": 0.061182260513305664,
+    "nlist": 284,
+    "nprobe": 128
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.04615020751953125,
+    "audio_to_melody_search_time": 0.04823565483093262,
+    "nlist": 1136,
+    "nprobe": 264
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.14989709854125977,
+    "audio_to_melody_search_time": 0.2719297409057617,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.4547595977783203,
+    "audio_to_melody_search_time": 0.06473731994628906,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.25050973892211914,
+    "audio_to_melody_search_time": 0.2938237190246582,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.7484641075134277,
+    "audio_to_melody_search_time": 0.8535711765289307,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.11484146118164062,
+    "audio_to_melody_search_time": 0.10371065139770508,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.039769649505615234,
+    "audio_to_melody_search_time": 0.033861398696899414,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.25260305404663086,
+    "audio_to_melody_search_time": 0.3325173854827881,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.6697843074798584,
+    "audio_to_melody_search_time": 0.2664346694946289,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.6885950565338135,
+    "audio_to_melody_search_time": 0.9079389572143555,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.11096811294555664,
+    "audio_to_melody_search_time": 0.052741289138793945,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.17405080795288086,
+    "audio_to_melody_search_time": 0.1632847785949707,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.3772308826446533,
+    "audio_to_melody_search_time": 0.2494950294494629,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 1.1617431640625,
+    "audio_to_melody_search_time": 0.5247161388397217,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.1840229034423828,
+    "audio_to_melody_search_time": 0.2748727798461914,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.256361722946167,
+    "audio_to_melody_search_time": 0.07221031188964844,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.4245305061340332,
+    "audio_to_melody_search_time": 0.2910475730895996,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 1.4242165088653564,
+    "audio_to_melody_search_time": 0.7908220291137695,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.05786442756652832,
+    "audio_to_melody_search_time": 0.0679318904876709,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.13122177124023438,
+    "audio_to_melody_search_time": 0.1670374870300293,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.2228705883026123,
+    "audio_to_melody_search_time": 0.06224822998046875,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.46642208099365234,
+    "audio_to_melody_search_time": 0.2972724437713623,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.6673867702484131,
+    "audio_to_melody_search_time": 0.5906972885131836,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.631640625,
+    "audio_to_audio_search_time": 0.06985282897949219,
+    "audio_to_melody_search_time": 0.05037212371826172,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 64
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.04856467247009277,
+    "audio_to_melody_search_time": 0.04597949981689453,
+    "nlist": 568,
+    "nprobe": 184
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.027668476104736328,
+    "audio_to_melody_search_time": 0.016782045364379883,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.19407129287719727,
+    "audio_to_melody_search_time": 0.1759028434753418,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.3669419288635254,
+    "audio_to_melody_search_time": 0.4394490718841553,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.4506967067718506,
+    "audio_to_melody_search_time": 0.17673301696777344,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 1.1628837585449219,
+    "audio_to_melody_search_time": 0.9457664489746094,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.19733548164367676,
+    "audio_to_melody_search_time": 0.03585243225097656,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.15573692321777344,
+    "audio_to_melody_search_time": 0.06872200965881348,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.9451444149017334,
+    "audio_to_melody_search_time": 0.22210359573364258,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 1.3265352249145508,
+    "audio_to_melody_search_time": 0.7194797992706299,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.03426337242126465,
+    "audio_to_melody_search_time": 0.0548703670501709,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.17445683479309082,
+    "audio_to_melody_search_time": 0.26525259017944336,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.42542505264282227,
+    "audio_to_melody_search_time": 0.11858296394348145,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.7686004638671875,
+    "audio_to_melody_search_time": 0.5627260208129883,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.15666866302490234,
+    "audio_to_melody_search_time": 0.01786184310913086,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.1578528881072998,
+    "audio_to_melody_search_time": 0.18874168395996094,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.4954502582550049,
+    "audio_to_melody_search_time": 0.2929556369781494,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.9248006343841553,
+    "audio_to_melody_search_time": 0.8006682395935059,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.07593011856079102,
+    "audio_to_melody_search_time": 0.10368466377258301,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.052639007568359375,
+    "audio_to_melody_search_time": 0.1802043914794922,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.22466015815734863,
+    "audio_to_melody_search_time": 0.09989190101623535,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.5742156505584717,
+    "audio_to_melody_search_time": 0.316455602645874,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 1.0530555248260498,
+    "audio_to_melody_search_time": 1.1480512619018555,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.1466076374053955,
+    "audio_to_melody_search_time": 0.07218384742736816,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.20227622985839844,
+    "audio_to_melody_search_time": 0.05571341514587402,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.43776488304138184,
+    "audio_to_melody_search_time": 0.1584181785583496,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.17651057243347168,
+    "audio_to_melody_search_time": 0.8856489658355713,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 1.063323736190796,
+    "audio_to_melody_search_time": 0.9271938800811768,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.054067373275756836,
+    "audio_to_melody_search_time": 0.09331941604614258,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.17541790008544922,
+    "audio_to_melody_search_time": 0.17515182495117188,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.3209056854248047,
+    "audio_to_melody_search_time": 0.3314833641052246,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.47766542434692383,
+    "audio_to_melody_search_time": 0.6313891410827637,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.9976010322570801,
+    "audio_to_melody_search_time": 0.6714296340942383,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.06685185432434082,
+    "audio_to_melody_search_time": 0.030675649642944336,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6314453125,
+    "audio_to_audio_search_time": 0.08377337455749512,
+    "audio_to_melody_search_time": 0.02439594268798828,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 64
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.02793264389038086,
+    "audio_to_melody_search_time": 0.03311753273010254,
+    "nlist": 142,
+    "nprobe": 44
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.017565250396728516,
+    "audio_to_melody_search_time": 0.02390003204345703,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.1610093116760254,
+    "audio_to_melody_search_time": 0.12228584289550781,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.08368849754333496,
+    "audio_to_melody_search_time": 0.036623239517211914,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.10257792472839355,
+    "audio_to_melody_search_time": 0.14154410362243652,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.08285403251647949,
+    "audio_to_melody_search_time": 0.19074010848999023,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.02505946159362793,
+    "audio_to_melody_search_time": 0.034278154373168945,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.0460205078125,
+    "audio_to_melody_search_time": 0.05475974082946777,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.11692190170288086,
+    "audio_to_melody_search_time": 0.054215192794799805,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.09998250007629395,
+    "audio_to_melody_search_time": 0.04030036926269531,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.0803370475769043,
+    "audio_to_melody_search_time": 0.06858491897583008,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63125,
+    "audio_to_audio_search_time": 0.03225851058959961,
+    "audio_to_melody_search_time": 0.03554797172546387,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 32
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6310546875,
+    "audio_to_audio_search_time": 0.03239178657531738,
+    "audio_to_melody_search_time": 0.02972412109375,
+    "nlist": 284,
+    "nprobe": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6310546875,
+    "audio_to_audio_search_time": 0.1883993148803711,
+    "audio_to_melody_search_time": 0.15812945365905762,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6310546875,
+    "audio_to_audio_search_time": 0.1277778148651123,
+    "audio_to_melody_search_time": 0.017964839935302734,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6310546875,
+    "audio_to_audio_search_time": 0.017052888870239258,
+    "audio_to_melody_search_time": 0.010957956314086914,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6310546875,
+    "audio_to_audio_search_time": 0.05852818489074707,
+    "audio_to_melody_search_time": 0.025580406188964844,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.15226387977600098,
+    "audio_to_melody_search_time": 0.08804821968078613,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.8085520267486572,
+    "audio_to_melody_search_time": 0.2265627384185791,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.7709128856658936,
+    "audio_to_melody_search_time": 0.4377133846282959,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.03573918342590332,
+    "audio_to_melody_search_time": 0.03435921669006348,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.46197056770324707,
+    "audio_to_melody_search_time": 0.5139262676239014,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.2483227252960205,
+    "audio_to_melody_search_time": 0.2395315170288086,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.7994651794433594,
+    "audio_to_melody_search_time": 0.9362716674804688,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.04436349868774414,
+    "audio_to_melody_search_time": 0.049363136291503906,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.10895037651062012,
+    "audio_to_melody_search_time": 0.0964200496673584,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.12976479530334473,
+    "audio_to_melody_search_time": 0.03186678886413574,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.3121070861816406,
+    "audio_to_melody_search_time": 0.3897736072540283,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.3659985065460205,
+    "audio_to_melody_search_time": 0.20616722106933594,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.7783985137939453,
+    "audio_to_melody_search_time": 0.7604537010192871,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.13342809677124023,
+    "audio_to_melody_search_time": 0.04182624816894531,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.22133827209472656,
+    "audio_to_melody_search_time": 0.16284871101379395,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.30123448371887207,
+    "audio_to_melody_search_time": 0.21712636947631836,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.7972769737243652,
+    "audio_to_melody_search_time": 0.6080570220947266,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.03586268424987793,
+    "audio_to_melody_search_time": 0.0178678035736084,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.061515092849731445,
+    "audio_to_melody_search_time": 0.06815886497497559,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.13763856887817383,
+    "audio_to_melody_search_time": 0.0871431827545166,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.1138763427734375,
+    "audio_to_melody_search_time": 0.058284759521484375,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.3622922897338867,
+    "audio_to_melody_search_time": 0.39406847953796387,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.7388103008270264,
+    "audio_to_melody_search_time": 0.47650718688964844,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.01840496063232422,
+    "audio_to_melody_search_time": 0.010640859603881836,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630859375,
+    "audio_to_audio_search_time": 0.04802703857421875,
+    "audio_to_melody_search_time": 0.020096302032470703,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.08302116394042969,
+    "audio_to_melody_search_time": 0.07170796394348145,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.06477069854736328,
+    "audio_to_melody_search_time": 0.3912169933319092,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.3532865047454834,
+    "audio_to_melody_search_time": 0.42310404777526855,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.14728426933288574,
+    "audio_to_melody_search_time": 0.06722760200500488,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.5253446102142334,
+    "audio_to_melody_search_time": 0.4193148612976074,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.7103970050811768,
+    "audio_to_melody_search_time": 1.2330472469329834,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.02353692054748535,
+    "audio_to_melody_search_time": 0.010953664779663086,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.09527945518493652,
+    "audio_to_melody_search_time": 0.0947718620300293,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.07647156715393066,
+    "audio_to_melody_search_time": 0.016596078872680664,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.16288042068481445,
+    "audio_to_melody_search_time": 0.17090415954589844,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.20199012756347656,
+    "audio_to_melody_search_time": 0.1838080883026123,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.46502184867858887,
+    "audio_to_melody_search_time": 0.23705005645751953,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.9172415733337402,
+    "audio_to_melody_search_time": 1.1007204055786133,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.0809946060180664,
+    "audio_to_melody_search_time": 0.09272503852844238,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.044103145599365234,
+    "audio_to_melody_search_time": 0.02894735336303711,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.04289984703063965,
+    "audio_to_melody_search_time": 0.0356135368347168,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6306640625,
+    "audio_to_audio_search_time": 0.05525541305541992,
+    "audio_to_melody_search_time": 0.03488039970397949,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 32
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.026190996170043945,
+    "audio_to_melody_search_time": 0.03466987609863281,
+    "nlist": 568,
+    "nprobe": 92
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.4028315544128418,
+    "audio_to_melody_search_time": 0.05615544319152832,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.6726410388946533,
+    "audio_to_melody_search_time": 0.2833137512207031,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.12456345558166504,
+    "audio_to_melody_search_time": 0.1502830982208252,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.37113213539123535,
+    "audio_to_melody_search_time": 0.3376445770263672,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.044736623764038086,
+    "audio_to_melody_search_time": 0.1567060947418213,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.03922080993652344,
+    "audio_to_melody_search_time": 0.010949373245239258,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.011797189712524414,
+    "audio_to_melody_search_time": 0.010955572128295898,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.13170719146728516,
+    "audio_to_melody_search_time": 0.05774116516113281,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.15990948677062988,
+    "audio_to_melody_search_time": 0.09030699729919434,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.1561295986175537,
+    "audio_to_melody_search_time": 0.15735459327697754,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.37539029121398926,
+    "audio_to_melody_search_time": 0.3029162883758545,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.2681255340576172,
+    "audio_to_melody_search_time": 0.20766472816467285,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 1.48610520362854,
+    "audio_to_melody_search_time": 0.7360019683837891,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.05283045768737793,
+    "audio_to_melody_search_time": 0.07090306282043457,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.07558512687683105,
+    "audio_to_melody_search_time": 0.034353017807006836,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.23224759101867676,
+    "audio_to_melody_search_time": 0.15632033348083496,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.26225757598876953,
+    "audio_to_melody_search_time": 0.18276071548461914,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.63046875,
+    "audio_to_audio_search_time": 0.4573681354522705,
+    "audio_to_melody_search_time": 0.7097094058990479,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.4064016342163086,
+    "audio_to_melody_search_time": 0.334155797958374,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.03607916831970215,
+    "audio_to_melody_search_time": 0.14649367332458496,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.0726621150970459,
+    "audio_to_melody_search_time": 0.07171034812927246,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.671351432800293,
+    "audio_to_melody_search_time": 0.7666614055633545,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.772911787033081,
+    "audio_to_melody_search_time": 1.4959933757781982,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.1011197566986084,
+    "audio_to_melody_search_time": 0.019325733184814453,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.04191875457763672,
+    "audio_to_melody_search_time": 0.10520195960998535,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.11328291893005371,
+    "audio_to_melody_search_time": 0.07913064956665039,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.04923367500305176,
+    "audio_to_melody_search_time": 0.0394749641418457,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.1396327018737793,
+    "audio_to_melody_search_time": 0.16346383094787598,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.4702274799346924,
+    "audio_to_melody_search_time": 0.06175065040588379,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.23261618614196777,
+    "audio_to_melody_search_time": 0.37448787689208984,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.9462435245513916,
+    "audio_to_melody_search_time": 1.1794557571411133,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.11386418342590332,
+    "audio_to_melody_search_time": 0.15936279296875,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.338578462600708,
+    "audio_to_melody_search_time": 0.31931376457214355,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.48659515380859375,
+    "audio_to_melody_search_time": 0.4041111469268799,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.7933604717254639,
+    "audio_to_melody_search_time": 0.7915751934051514,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.14035296440124512,
+    "audio_to_melody_search_time": 0.12833404541015625,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.1739637851715088,
+    "audio_to_melody_search_time": 0.12236428260803223,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.19742918014526367,
+    "audio_to_melody_search_time": 0.12461996078491211,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.4312448501586914,
+    "audio_to_melody_search_time": 0.2051689624786377,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.811974287033081,
+    "audio_to_melody_search_time": 1.316615104675293,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.024682044982910156,
+    "audio_to_melody_search_time": 0.021909475326538086,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.1997208595275879,
+    "audio_to_melody_search_time": 0.15415596961975098,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.25997328758239746,
+    "audio_to_melody_search_time": 0.15083575248718262,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.3660280704498291,
+    "audio_to_melody_search_time": 0.3228013515472412,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.6062049865722656,
+    "audio_to_melody_search_time": 0.8675730228424072,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.10750818252563477,
+    "audio_to_melody_search_time": 0.08818268775939941,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.20891070365905762,
+    "audio_to_melody_search_time": 0.109283447265625,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.14482688903808594,
+    "audio_to_melody_search_time": 0.2534818649291992,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.5423963069915771,
+    "audio_to_melody_search_time": 0.3745391368865967,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.9419589042663574,
+    "audio_to_melody_search_time": 0.6887362003326416,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.10993409156799316,
+    "audio_to_melody_search_time": 0.16934490203857422,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.15947556495666504,
+    "audio_to_melody_search_time": 0.1741197109222412,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.28716444969177246,
+    "audio_to_melody_search_time": 0.3401358127593994,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.9202396869659424,
+    "audio_to_melody_search_time": 0.5348501205444336,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6302734375,
+    "audio_to_audio_search_time": 0.05753135681152344,
+    "audio_to_melody_search_time": 0.03290104866027832,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 64
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.025603771209716797,
+    "audio_to_melody_search_time": 0.040360450744628906,
+    "nlist": 1136,
+    "nprobe": 132
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.2306811809539795,
+    "audio_to_melody_search_time": 0.37400054931640625,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.25344157218933105,
+    "audio_to_melody_search_time": 0.319782018661499,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.4571506977081299,
+    "audio_to_melody_search_time": 0.5423986911773682,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.1277623176574707,
+    "audio_to_melody_search_time": 0.14441847801208496,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.46567344665527344,
+    "audio_to_melody_search_time": 2.0575037002563477,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 1.1481895446777344,
+    "audio_to_melody_search_time": 0.8002824783325195,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.634080171585083,
+    "audio_to_melody_search_time": 0.6573576927185059,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.8425087928771973,
+    "audio_to_melody_search_time": 1.3769679069519043,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.1263265609741211,
+    "audio_to_melody_search_time": 0.026314973831176758,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.21405291557312012,
+    "audio_to_melody_search_time": 0.10347580909729004,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.05682229995727539,
+    "audio_to_melody_search_time": 0.060245513916015625,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.08272099494934082,
+    "audio_to_melody_search_time": 0.08687520027160645,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.07324934005737305,
+    "audio_to_melody_search_time": 0.09237957000732422,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.1795520782470703,
+    "audio_to_melody_search_time": 0.17325973510742188,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.3028860092163086,
+    "audio_to_melody_search_time": 0.187974214553833,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.25162291526794434,
+    "audio_to_melody_search_time": 0.46613287925720215,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 1.1217992305755615,
+    "audio_to_melody_search_time": 0.6443116664886475,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.06875801086425781,
+    "audio_to_melody_search_time": 0.09494400024414062,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.05900835990905762,
+    "audio_to_melody_search_time": 0.03309798240661621,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.630078125,
+    "audio_to_audio_search_time": 0.05768942832946777,
+    "audio_to_melody_search_time": 0.03375887870788574,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.5342459678649902,
+    "audio_to_melody_search_time": 0.4564399719238281,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.014369487762451172,
+    "audio_to_melody_search_time": 0.012027502059936523,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.17451977729797363,
+    "audio_to_melody_search_time": 0.09063458442687988,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.19045686721801758,
+    "audio_to_melody_search_time": 0.12798166275024414,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.02588653564453125,
+    "audio_to_melody_search_time": 0.17837858200073242,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.14005231857299805,
+    "audio_to_melody_search_time": 0.06842947006225586,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.7681658267974854,
+    "audio_to_melody_search_time": 0.5797412395477295,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.21402311325073242,
+    "audio_to_melody_search_time": 0.1583566665649414,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.5538930892944336,
+    "audio_to_melody_search_time": 0.42678141593933105,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.17629218101501465,
+    "audio_to_melody_search_time": 0.20248651504516602,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.7815942764282227,
+    "audio_to_melody_search_time": 0.737133264541626,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.05851435661315918,
+    "audio_to_melody_search_time": 0.0766901969909668,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.021451711654663086,
+    "audio_to_melody_search_time": 0.010953426361083984,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.06059551239013672,
+    "audio_to_melody_search_time": 0.05521512031555176,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.030011653900146484,
+    "audio_to_melody_search_time": 0.010956525802612305,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.13819241523742676,
+    "audio_to_melody_search_time": 0.04332375526428223,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.1902170181274414,
+    "audio_to_melody_search_time": 0.0612485408782959,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.6386544704437256,
+    "audio_to_melody_search_time": 0.21215510368347168,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 1.2339460849761963,
+    "audio_to_melody_search_time": 1.1854288578033447,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.043683767318725586,
+    "audio_to_melody_search_time": 0.0480191707611084,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.07728743553161621,
+    "audio_to_melody_search_time": 0.04039168357849121,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.16519689559936523,
+    "audio_to_melody_search_time": 0.020445585250854492,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6298828125,
+    "audio_to_audio_search_time": 0.023209095001220703,
+    "audio_to_melody_search_time": 0.03198504447937012,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 16
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.02489948272705078,
+    "audio_to_melody_search_time": 0.027936697006225586,
+    "nlist": 50,
+    "nprobe": 14
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.0252532958984375,
+    "audio_to_melody_search_time": 0.03034377098083496,
+    "nlist": 50,
+    "nprobe": 14
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.026044130325317383,
+    "audio_to_melody_search_time": 0.03590679168701172,
+    "nlist": 50,
+    "nprobe": 14
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.030763864517211914,
+    "audio_to_melody_search_time": 0.04903411865234375,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.5247738361358643,
+    "audio_to_melody_search_time": 0.05847334861755371,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.14162015914916992,
+    "audio_to_melody_search_time": 0.025815486907958984,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.07817935943603516,
+    "audio_to_melody_search_time": 0.024335384368896484,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.05083274841308594,
+    "audio_to_melody_search_time": 0.08502054214477539,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.08539485931396484,
+    "audio_to_melody_search_time": 0.08493638038635254,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.012001276016235352,
+    "audio_to_melody_search_time": 0.013941764831542969,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.0984950065612793,
+    "audio_to_melody_search_time": 0.08179950714111328,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.07026982307434082,
+    "audio_to_melody_search_time": 0.3572380542755127,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.2431340217590332,
+    "audio_to_melody_search_time": 0.3092641830444336,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6296875,
+    "audio_to_audio_search_time": 0.9733786582946777,
+    "audio_to_melody_search_time": 0.9571633338928223,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.07613444328308105,
+    "audio_to_melody_search_time": 0.06963753700256348,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.28197646141052246,
+    "audio_to_melody_search_time": 0.2860136032104492,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.36108827590942383,
+    "audio_to_melody_search_time": 0.25115346908569336,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.022890567779541016,
+    "audio_to_melody_search_time": 0.12771177291870117,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.05835986137390137,
+    "audio_to_melody_search_time": 0.10545969009399414,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.04531550407409668,
+    "audio_to_melody_search_time": 0.06447005271911621,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.11788058280944824,
+    "audio_to_melody_search_time": 0.04340386390686035,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.030298471450805664,
+    "audio_to_melody_search_time": 0.011449575424194336,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.031191110610961914,
+    "audio_to_melody_search_time": 0.03551077842712402,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.06590747833251953,
+    "audio_to_melody_search_time": 0.05477333068847656,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.16547393798828125,
+    "audio_to_melody_search_time": 0.1018517017364502,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.1274101734161377,
+    "audio_to_melody_search_time": 0.07266616821289062,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.2440929412841797,
+    "audio_to_melody_search_time": 0.26965832710266113,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.4711618423461914,
+    "audio_to_melody_search_time": 0.8574752807617188,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.023482561111450195,
+    "audio_to_melody_search_time": 0.027441978454589844,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6294921875,
+    "audio_to_audio_search_time": 0.025173187255859375,
+    "audio_to_melody_search_time": 0.032468318939208984,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.23346495628356934,
+    "audio_to_melody_search_time": 0.011929988861083984,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.022974014282226562,
+    "audio_to_melody_search_time": 0.014940738677978516,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.045687198638916016,
+    "audio_to_melody_search_time": 0.04755449295043945,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.11958122253417969,
+    "audio_to_melody_search_time": 0.0896761417388916,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.12634611129760742,
+    "audio_to_melody_search_time": 0.124664306640625,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.15591216087341309,
+    "audio_to_melody_search_time": 0.07880902290344238,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.21177363395690918,
+    "audio_to_melody_search_time": 0.21215176582336426,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.6494345664978027,
+    "audio_to_melody_search_time": 0.5729281902313232,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.629296875,
+    "audio_to_audio_search_time": 0.0577847957611084,
+    "audio_to_melody_search_time": 0.07649016380310059,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.12901687622070312,
+    "audio_to_melody_search_time": 0.24351072311401367,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.020409345626831055,
+    "audio_to_melody_search_time": 0.012082576751708984,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.01262044906616211,
+    "audio_to_melody_search_time": 0.011962652206420898,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.09282779693603516,
+    "audio_to_melody_search_time": 0.041829824447631836,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.05697178840637207,
+    "audio_to_melody_search_time": 0.03314328193664551,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.015028715133666992,
+    "audio_to_melody_search_time": 0.010455131530761719,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6291015625,
+    "audio_to_audio_search_time": 0.02430272102355957,
+    "audio_to_melody_search_time": 0.019720077514648438,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 16
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.022586584091186523,
+    "audio_to_melody_search_time": 0.02982783317565918,
+    "nlist": 71,
+    "nprobe": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.1754443645477295,
+    "audio_to_melody_search_time": 0.04332160949707031,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.10786986351013184,
+    "audio_to_melody_search_time": 0.10305309295654297,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.05842447280883789,
+    "audio_to_melody_search_time": 0.047399044036865234,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.07497239112854004,
+    "audio_to_melody_search_time": 0.0700829029083252,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.1366136074066162,
+    "audio_to_melody_search_time": 0.03186631202697754,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.1622300148010254,
+    "audio_to_melody_search_time": 0.05527067184448242,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 256
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.3779618740081787,
+    "audio_to_melody_search_time": 0.20816659927368164,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 512
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.6796422004699707,
+    "audio_to_melody_search_time": 0.47954416275024414,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 1024
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62890625,
+    "audio_to_audio_search_time": 0.016590595245361328,
+    "audio_to_melody_search_time": 0.02123713493347168,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6287109375,
+    "audio_to_audio_search_time": 0.05452871322631836,
+    "audio_to_melody_search_time": 0.04729461669921875,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6287109375,
+    "audio_to_audio_search_time": 0.05133938789367676,
+    "audio_to_melody_search_time": 0.028223037719726562,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.628515625,
+    "audio_to_audio_search_time": 0.05613398551940918,
+    "audio_to_melody_search_time": 0.0394587516784668,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.628515625,
+    "audio_to_audio_search_time": 0.015027046203613281,
+    "audio_to_melody_search_time": 0.018851041793823242,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.628515625,
+    "audio_to_audio_search_time": 0.024640798568725586,
+    "audio_to_melody_search_time": 0.04536008834838867,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6283203125,
+    "audio_to_audio_search_time": 0.02141427993774414,
+    "audio_to_melody_search_time": 0.011571645736694336,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 128
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.628125,
+    "audio_to_audio_search_time": 0.02476978302001953,
+    "audio_to_melody_search_time": 0.04172253608703613,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6275390625,
+    "audio_to_audio_search_time": 0.023198604583740234,
+    "audio_to_melody_search_time": 0.02684187889099121,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6275390625,
+    "audio_to_audio_search_time": 0.016261816024780273,
+    "audio_to_melody_search_time": 0.013499259948730469,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 16
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.62734375,
+    "audio_to_audio_search_time": 0.020313501358032227,
+    "audio_to_melody_search_time": 0.025353193283081055,
+    "nlist": 142,
+    "nprobe": 22
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62734375,
+    "audio_to_audio_search_time": 0.010817527770996094,
+    "audio_to_melody_search_time": 0.006970882415771484,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6271484375,
+    "audio_to_audio_search_time": 0.03778433799743652,
+    "audio_to_melody_search_time": 0.011774063110351562,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626953125,
+    "audio_to_audio_search_time": 0.05295562744140625,
+    "audio_to_melody_search_time": 0.06001543998718262,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626953125,
+    "audio_to_audio_search_time": 0.02360701560974121,
+    "audio_to_melody_search_time": 0.03359103202819824,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626953125,
+    "audio_to_audio_search_time": 0.014976263046264648,
+    "audio_to_melody_search_time": 0.02524256706237793,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6267578125,
+    "audio_to_audio_search_time": 0.14299368858337402,
+    "audio_to_melody_search_time": 0.12879419326782227,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6267578125,
+    "audio_to_audio_search_time": 0.023031949996948242,
+    "audio_to_melody_search_time": 0.03134942054748535,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6267578125,
+    "audio_to_audio_search_time": 0.02243947982788086,
+    "audio_to_melody_search_time": 0.02502608299255371,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6267578125,
+    "audio_to_audio_search_time": 0.0222625732421875,
+    "audio_to_melody_search_time": 0.032002925872802734,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6265625,
+    "audio_to_audio_search_time": 0.1676638126373291,
+    "audio_to_melody_search_time": 0.11390447616577148,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6263671875,
+    "audio_to_audio_search_time": 0.0343170166015625,
+    "audio_to_melody_search_time": 0.01295018196105957,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6263671875,
+    "audio_to_audio_search_time": 0.05208444595336914,
+    "audio_to_melody_search_time": 0.01652383804321289,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6263671875,
+    "audio_to_audio_search_time": 0.026703834533691406,
+    "audio_to_melody_search_time": 0.031763315200805664,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626171875,
+    "audio_to_audio_search_time": 0.016718626022338867,
+    "audio_to_melody_search_time": 0.006347179412841797,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626171875,
+    "audio_to_audio_search_time": 0.02105426788330078,
+    "audio_to_melody_search_time": 0.02190852165222168,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626171875,
+    "audio_to_audio_search_time": 0.009275436401367188,
+    "audio_to_melody_search_time": 0.0069696903228759766,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.626171875,
+    "audio_to_audio_search_time": 0.04848980903625488,
+    "audio_to_melody_search_time": 0.019526243209838867,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6259765625,
+    "audio_to_audio_search_time": 0.11587834358215332,
+    "audio_to_melody_search_time": 0.02339911460876465,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62578125,
+    "audio_to_audio_search_time": 0.03396296501159668,
+    "audio_to_melody_search_time": 0.02539515495300293,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62578125,
+    "audio_to_audio_search_time": 0.023016691207885742,
+    "audio_to_melody_search_time": 0.022837400436401367,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6255859375,
+    "audio_to_audio_search_time": 0.021259546279907227,
+    "audio_to_melody_search_time": 0.030574560165405273,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6255859375,
+    "audio_to_audio_search_time": 0.05706453323364258,
+    "audio_to_melody_search_time": 0.02892923355102539,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.625390625,
+    "audio_to_audio_search_time": 0.03969764709472656,
+    "audio_to_melody_search_time": 0.021909236907958984,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.625390625,
+    "audio_to_audio_search_time": 0.05309319496154785,
+    "audio_to_melody_search_time": 0.015440702438354492,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6251953125,
+    "audio_to_audio_search_time": 0.14511966705322266,
+    "audio_to_melody_search_time": 0.08886146545410156,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6251953125,
+    "audio_to_audio_search_time": 0.044518470764160156,
+    "audio_to_melody_search_time": 0.06328916549682617,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 16
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.625,
+    "audio_to_audio_search_time": 0.01713275909423828,
+    "audio_to_melody_search_time": 0.023183107376098633,
+    "nlist": 284,
+    "nprobe": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.625,
+    "audio_to_audio_search_time": 0.11860227584838867,
+    "audio_to_melody_search_time": 0.008467674255371094,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.625,
+    "audio_to_audio_search_time": 0.030974864959716797,
+    "audio_to_melody_search_time": 0.021411895751953125,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6248046875,
+    "audio_to_audio_search_time": 0.007918119430541992,
+    "audio_to_melody_search_time": 0.006839752197265625,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6248046875,
+    "audio_to_audio_search_time": 0.007633686065673828,
+    "audio_to_melody_search_time": 0.005974292755126953,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6244140625,
+    "audio_to_audio_search_time": 0.04106855392456055,
+    "audio_to_melody_search_time": 0.02390265464782715,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6244140625,
+    "audio_to_audio_search_time": 0.04067492485046387,
+    "audio_to_melody_search_time": 0.05473947525024414,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 64
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.62421875,
+    "audio_to_audio_search_time": 0.016316652297973633,
+    "audio_to_melody_search_time": 0.026155471801757812,
+    "nlist": 568,
+    "nprobe": 46
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.62421875,
+    "audio_to_audio_search_time": 0.019562721252441406,
+    "audio_to_melody_search_time": 0.021650314331054688,
+    "nlist": 1136,
+    "nprobe": 66
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62421875,
+    "audio_to_audio_search_time": 0.10207486152648926,
+    "audio_to_melody_search_time": 0.1371920108795166,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 64
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.623828125,
+    "audio_to_audio_search_time": 0.05226922035217285,
+    "audio_to_melody_search_time": 0.015207767486572266,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.623828125,
+    "audio_to_audio_search_time": 0.008114099502563477,
+    "audio_to_melody_search_time": 0.005974769592285156,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.623828125,
+    "audio_to_audio_search_time": 0.037036895751953125,
+    "audio_to_melody_search_time": 0.030284881591796875,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.623828125,
+    "audio_to_audio_search_time": 0.05255317687988281,
+    "audio_to_melody_search_time": 0.054201602935791016,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6234375,
+    "audio_to_audio_search_time": 0.052379608154296875,
+    "audio_to_melody_search_time": 0.062255859375,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6232421875,
+    "audio_to_audio_search_time": 0.007851839065551758,
+    "audio_to_melody_search_time": 0.0059735774993896484,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.623046875,
+    "audio_to_audio_search_time": 0.05423450469970703,
+    "audio_to_melody_search_time": 0.022176265716552734,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62265625,
+    "audio_to_audio_search_time": 0.027705907821655273,
+    "audio_to_melody_search_time": 0.021792888641357422,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.62265625,
+    "audio_to_audio_search_time": 0.007578372955322266,
+    "audio_to_melody_search_time": 0.0059719085693359375,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.622265625,
+    "audio_to_audio_search_time": 0.04304337501525879,
+    "audio_to_melody_search_time": 0.061164140701293945,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.621484375,
+    "audio_to_audio_search_time": 0.007589578628540039,
+    "audio_to_melody_search_time": 0.005975484848022461,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6212890625,
+    "audio_to_audio_search_time": 0.045447587966918945,
+    "audio_to_melody_search_time": 0.06198310852050781,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.619921875,
+    "audio_to_audio_search_time": 0.02084636688232422,
+    "audio_to_melody_search_time": 0.01515960693359375,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6189453125,
+    "audio_to_audio_search_time": 0.0622406005859375,
+    "audio_to_melody_search_time": 0.06767058372497559,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6185546875,
+    "audio_to_audio_search_time": 0.05880427360534668,
+    "audio_to_melody_search_time": 0.07890081405639648,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6181640625,
+    "audio_to_audio_search_time": 0.06975936889648438,
+    "audio_to_melody_search_time": 0.08411812782287598,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.617578125,
+    "audio_to_audio_search_time": 0.011754751205444336,
+    "audio_to_melody_search_time": 0.018425703048706055,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6171875,
+    "audio_to_audio_search_time": 0.015149354934692383,
+    "audio_to_melody_search_time": 0.0071773529052734375,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6171875,
+    "audio_to_audio_search_time": 0.022954463958740234,
+    "audio_to_melody_search_time": 0.0045833587646484375,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6171875,
+    "audio_to_audio_search_time": 0.02208685874938965,
+    "audio_to_melody_search_time": 0.03202462196350098,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6166015625,
+    "audio_to_audio_search_time": 0.04960227012634277,
+    "audio_to_melody_search_time": 0.011448144912719727,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6166015625,
+    "audio_to_audio_search_time": 0.023375749588012695,
+    "audio_to_melody_search_time": 0.04150557518005371,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6166015625,
+    "audio_to_audio_search_time": 0.023446083068847656,
+    "audio_to_melody_search_time": 0.022474050521850586,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.61640625,
+    "audio_to_audio_search_time": 0.023170948028564453,
+    "audio_to_melody_search_time": 0.03278040885925293,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6162109375,
+    "audio_to_audio_search_time": 0.00872659683227539,
+    "audio_to_melody_search_time": 0.0039637088775634766,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6162109375,
+    "audio_to_audio_search_time": 0.022747516632080078,
+    "audio_to_melody_search_time": 0.03112030029296875,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.616015625,
+    "audio_to_audio_search_time": 0.07744646072387695,
+    "audio_to_melody_search_time": 0.01115560531616211,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.616015625,
+    "audio_to_audio_search_time": 0.07731890678405762,
+    "audio_to_melody_search_time": 0.12920188903808594,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.616015625,
+    "audio_to_audio_search_time": 0.023466825485229492,
+    "audio_to_melody_search_time": 0.02374100685119629,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6158203125,
+    "audio_to_audio_search_time": 0.01301717758178711,
+    "audio_to_melody_search_time": 0.011453390121459961,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6158203125,
+    "audio_to_audio_search_time": 0.04083657264709473,
+    "audio_to_melody_search_time": 0.04980015754699707,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6158203125,
+    "audio_to_audio_search_time": 0.022215843200683594,
+    "audio_to_melody_search_time": 0.03287959098815918,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.615625,
+    "audio_to_audio_search_time": 0.013443708419799805,
+    "audio_to_melody_search_time": 0.00644993782043457,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.615234375,
+    "audio_to_audio_search_time": 0.022051095962524414,
+    "audio_to_melody_search_time": 0.02124166488647461,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.615234375,
+    "audio_to_audio_search_time": 0.023521900177001953,
+    "audio_to_melody_search_time": 0.03153848648071289,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6150390625,
+    "audio_to_audio_search_time": 0.01118922233581543,
+    "audio_to_melody_search_time": 0.011452913284301758,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6150390625,
+    "audio_to_audio_search_time": 0.008390426635742188,
+    "audio_to_melody_search_time": 0.003727436065673828,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6150390625,
+    "audio_to_audio_search_time": 0.014802932739257812,
+    "audio_to_melody_search_time": 0.018555641174316406,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6146484375,
+    "audio_to_audio_search_time": 0.030624866485595703,
+    "audio_to_melody_search_time": 0.07259416580200195,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 32
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6142578125,
+    "audio_to_audio_search_time": 0.03176736831665039,
+    "audio_to_melody_search_time": 0.022309541702270508,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6140625,
+    "audio_to_audio_search_time": 0.022368192672729492,
+    "audio_to_melody_search_time": 0.03828549385070801,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.613671875,
+    "audio_to_audio_search_time": 0.02192974090576172,
+    "audio_to_melody_search_time": 0.041396141052246094,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.613671875,
+    "audio_to_audio_search_time": 0.012753486633300781,
+    "audio_to_melody_search_time": 0.016985177993774414,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 8
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6134765625,
+    "audio_to_audio_search_time": 0.018251657485961914,
+    "audio_to_melody_search_time": 0.01758098602294922,
+    "nlist": 50,
+    "nprobe": 7
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6134765625,
+    "audio_to_audio_search_time": 0.01633739471435547,
+    "audio_to_melody_search_time": 0.024582386016845703,
+    "nlist": 50,
+    "nprobe": 7
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6134765625,
+    "audio_to_audio_search_time": 0.018569231033325195,
+    "audio_to_melody_search_time": 0.024108409881591797,
+    "nlist": 50,
+    "nprobe": 7
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6134765625,
+    "audio_to_audio_search_time": 0.01266622543334961,
+    "audio_to_melody_search_time": 0.01592731475830078,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.61328125,
+    "audio_to_audio_search_time": 0.018996715545654297,
+    "audio_to_melody_search_time": 0.016754150390625,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6130859375,
+    "audio_to_audio_search_time": 0.02242302894592285,
+    "audio_to_melody_search_time": 0.013131380081176758,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6125,
+    "audio_to_audio_search_time": 0.016977310180664062,
+    "audio_to_melody_search_time": 0.016315937042236328,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.61171875,
+    "audio_to_audio_search_time": 0.01679253578186035,
+    "audio_to_melody_search_time": 0.011606454849243164,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.61171875,
+    "audio_to_audio_search_time": 0.00880122184753418,
+    "audio_to_melody_search_time": 0.012105226516723633,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6109375,
+    "audio_to_audio_search_time": 0.019777297973632812,
+    "audio_to_melody_search_time": 0.02062392234802246,
+    "M": 32,
+    "efConstruction": 40,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6107421875,
+    "audio_to_audio_search_time": 0.023216724395751953,
+    "audio_to_melody_search_time": 0.005101442337036133,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6103515625,
+    "audio_to_audio_search_time": 0.022557973861694336,
+    "audio_to_melody_search_time": 0.016077518463134766,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.609375,
+    "audio_to_audio_search_time": 0.022128582000732422,
+    "audio_to_melody_search_time": 0.03198742866516113,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6091796875,
+    "audio_to_audio_search_time": 0.022296428680419922,
+    "audio_to_melody_search_time": 0.0319972038269043,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 8
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6083984375,
+    "audio_to_audio_search_time": 0.015093088150024414,
+    "audio_to_melody_search_time": 0.024185895919799805,
+    "nlist": 71,
+    "nprobe": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.6083984375,
+    "audio_to_audio_search_time": 0.013664007186889648,
+    "audio_to_melody_search_time": 0.015967130661010742,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 8
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.606640625,
+    "audio_to_audio_search_time": 0.028171777725219727,
+    "audio_to_melody_search_time": 0.017124414443969727,
+    "nlist": 1136,
+    "nprobe": 33
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.60546875,
+    "audio_to_audio_search_time": 0.01699686050415039,
+    "audio_to_melody_search_time": 0.021242380142211914,
+    "nlist": 142,
+    "nprobe": 11
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6033203125,
+    "audio_to_audio_search_time": 0.012881278991699219,
+    "audio_to_melody_search_time": 0.021099567413330078,
+    "nlist": 284,
+    "nprobe": 16
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.6025390625,
+    "audio_to_audio_search_time": 0.009589672088623047,
+    "audio_to_melody_search_time": 0.008899688720703125,
+    "nlist": 568,
+    "nprobe": 23
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.599609375,
+    "audio_to_audio_search_time": 0.016877412796020508,
+    "audio_to_melody_search_time": 0.015805721282958984,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5990234375,
+    "audio_to_audio_search_time": 0.016736268997192383,
+    "audio_to_melody_search_time": 0.012481689453125,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5990234375,
+    "audio_to_audio_search_time": 0.009949207305908203,
+    "audio_to_melody_search_time": 0.01569366455078125,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.598828125,
+    "audio_to_audio_search_time": 0.021802663803100586,
+    "audio_to_melody_search_time": 0.03170919418334961,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5978515625,
+    "audio_to_audio_search_time": 0.022104978561401367,
+    "audio_to_melody_search_time": 0.03233909606933594,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5974609375,
+    "audio_to_audio_search_time": 0.038332223892211914,
+    "audio_to_melody_search_time": 0.006970643997192383,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5974609375,
+    "audio_to_audio_search_time": 0.022890806198120117,
+    "audio_to_melody_search_time": 0.011243104934692383,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.597265625,
+    "audio_to_audio_search_time": 0.008376598358154297,
+    "audio_to_melody_search_time": 0.01710820198059082,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5970703125,
+    "audio_to_audio_search_time": 0.012407779693603516,
+    "audio_to_melody_search_time": 0.0034868717193603516,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5966796875,
+    "audio_to_audio_search_time": 0.015578031539916992,
+    "audio_to_melody_search_time": 0.01575446128845215,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.596484375,
+    "audio_to_audio_search_time": 0.019929170608520508,
+    "audio_to_melody_search_time": 0.0025734901428222656,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.595703125,
+    "audio_to_audio_search_time": 0.02177572250366211,
+    "audio_to_melody_search_time": 0.007058143615722656,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.595703125,
+    "audio_to_audio_search_time": 0.02097606658935547,
+    "audio_to_melody_search_time": 0.03150773048400879,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5955078125,
+    "audio_to_audio_search_time": 0.012475013732910156,
+    "audio_to_melody_search_time": 0.003983259201049805,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.594921875,
+    "audio_to_audio_search_time": 0.005724430084228516,
+    "audio_to_melody_search_time": 0.005975008010864258,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.594921875,
+    "audio_to_audio_search_time": 0.010195255279541016,
+    "audio_to_melody_search_time": 0.015663862228393555,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5947265625,
+    "audio_to_audio_search_time": 0.021875619888305664,
+    "audio_to_melody_search_time": 0.025618791580200195,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5943359375,
+    "audio_to_audio_search_time": 0.03059840202331543,
+    "audio_to_melody_search_time": 0.01978278160095215,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5939453125,
+    "audio_to_audio_search_time": 0.052130937576293945,
+    "audio_to_melody_search_time": 0.010953903198242188,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.59375,
+    "audio_to_audio_search_time": 0.016086101531982422,
+    "audio_to_melody_search_time": 0.01552891731262207,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.593359375,
+    "audio_to_audio_search_time": 0.0032351016998291016,
+    "audio_to_melody_search_time": 0.08186554908752441,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5931640625,
+    "audio_to_audio_search_time": 0.006582736968994141,
+    "audio_to_melody_search_time": 0.002323627471923828,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.59296875,
+    "audio_to_audio_search_time": 0.0026988983154296875,
+    "audio_to_melody_search_time": 0.0023288726806640625,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.59296875,
+    "audio_to_audio_search_time": 0.030761241912841797,
+    "audio_to_melody_search_time": 0.042653799057006836,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.592578125,
+    "audio_to_audio_search_time": 0.0026884078979492188,
+    "audio_to_melody_search_time": 0.002312183380126953,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.592578125,
+    "audio_to_audio_search_time": 0.04713249206542969,
+    "audio_to_melody_search_time": 0.014939069747924805,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5921875,
+    "audio_to_audio_search_time": 0.005423307418823242,
+    "audio_to_melody_search_time": 0.005476713180541992,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5904296875,
+    "audio_to_audio_search_time": 0.00929880142211914,
+    "audio_to_melody_search_time": 0.005476474761962891,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 16
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.58828125,
+    "audio_to_audio_search_time": 0.03559732437133789,
+    "audio_to_melody_search_time": 0.0260772705078125,
+    "M": 32,
+    "efConstruction": 160,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5859375,
+    "audio_to_audio_search_time": 0.013771295547485352,
+    "audio_to_melody_search_time": 0.021036624908447266,
+    "M": 32,
+    "efConstruction": 512,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5849609375,
+    "audio_to_audio_search_time": 0.03649401664733887,
+    "audio_to_melody_search_time": 0.02347540855407715,
+    "M": 32,
+    "efConstruction": 2048,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.583984375,
+    "audio_to_audio_search_time": 0.005249500274658203,
+    "audio_to_melody_search_time": 0.003978252410888672,
+    "M": 32,
+    "efConstruction": 1280,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5828125,
+    "audio_to_audio_search_time": 0.011411190032958984,
+    "audio_to_melody_search_time": 0.015706539154052734,
+    "M": 32,
+    "efConstruction": 80,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5828125,
+    "audio_to_audio_search_time": 0.0036466121673583984,
+    "audio_to_melody_search_time": 0.009417533874511719,
+    "M": 32,
+    "efConstruction": 128,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.58203125,
+    "audio_to_audio_search_time": 0.013860225677490234,
+    "audio_to_melody_search_time": 0.03192639350891113,
+    "M": 32,
+    "efConstruction": 640,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5814453125,
+    "audio_to_audio_search_time": 0.013896942138671875,
+    "audio_to_melody_search_time": 0.010698080062866211,
+    "M": 32,
+    "efConstruction": 1024,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.58125,
+    "audio_to_audio_search_time": 0.006368160247802734,
+    "audio_to_melody_search_time": 0.007451772689819336,
+    "M": 32,
+    "efConstruction": 2560,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5810546875,
+    "audio_to_audio_search_time": 0.030836820602416992,
+    "audio_to_melody_search_time": 0.02162790298461914,
+    "M": 32,
+    "efConstruction": 320,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5798828125,
+    "audio_to_audio_search_time": 0.01580524444580078,
+    "audio_to_melody_search_time": 0.012264013290405273,
+    "M": 32,
+    "efConstruction": 64,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5796875,
+    "audio_to_audio_search_time": 0.027431488037109375,
+    "audio_to_melody_search_time": 0.01784205436706543,
+    "M": 32,
+    "efConstruction": 3200,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5794921875,
+    "audio_to_audio_search_time": 0.013941526412963867,
+    "audio_to_melody_search_time": 0.03171586990356445,
+    "M": 32,
+    "efConstruction": 256,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5736328125,
+    "audio_to_audio_search_time": 0.01572132110595703,
+    "audio_to_melody_search_time": 0.015547037124633789,
+    "M": 16,
+    "efConstruction": 640,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.573046875,
+    "audio_to_audio_search_time": 0.03204178810119629,
+    "audio_to_melody_search_time": 0.008150577545166016,
+    "M": 16,
+    "efConstruction": 1024,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.57109375,
+    "audio_to_audio_search_time": 0.022483348846435547,
+    "audio_to_melody_search_time": 0.03119969367980957,
+    "M": 16,
+    "efConstruction": 320,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.570703125,
+    "audio_to_audio_search_time": 0.021712064743041992,
+    "audio_to_melody_search_time": 0.0326080322265625,
+    "M": 16,
+    "efConstruction": 160,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.569921875,
+    "audio_to_audio_search_time": 0.0314946174621582,
+    "audio_to_melody_search_time": 0.009867668151855469,
+    "M": 16,
+    "efConstruction": 256,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.569921875,
+    "audio_to_audio_search_time": 0.024686336517333984,
+    "audio_to_melody_search_time": 0.015606164932250977,
+    "M": 16,
+    "efConstruction": 512,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.56953125,
+    "audio_to_audio_search_time": 0.026044368743896484,
+    "audio_to_melody_search_time": 0.026571989059448242,
+    "M": 16,
+    "efConstruction": 80,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5681640625,
+    "audio_to_audio_search_time": 0.004403114318847656,
+    "audio_to_melody_search_time": 0.0034813880920410156,
+    "M": 16,
+    "efConstruction": 2560,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5658203125,
+    "audio_to_audio_search_time": 0.015083074569702148,
+    "audio_to_melody_search_time": 0.01569962501525879,
+    "M": 16,
+    "efConstruction": 1280,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5646484375,
+    "audio_to_audio_search_time": 0.031432151794433594,
+    "audio_to_melody_search_time": 0.03074812889099121,
+    "M": 16,
+    "efConstruction": 64,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.564453125,
+    "audio_to_audio_search_time": 0.014333486557006836,
+    "audio_to_melody_search_time": 0.015420913696289062,
+    "M": 16,
+    "efConstruction": 128,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5638671875,
+    "audio_to_audio_search_time": 0.013120412826538086,
+    "audio_to_melody_search_time": 0.01004934310913086,
+    "M": 16,
+    "efConstruction": 2048,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.562890625,
+    "audio_to_audio_search_time": 0.014509201049804688,
+    "audio_to_melody_search_time": 0.015607357025146484,
+    "M": 16,
+    "efConstruction": 3200,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5564453125,
+    "audio_to_audio_search_time": 0.01527094841003418,
+    "audio_to_melody_search_time": 0.014501810073852539,
+    "M": 16,
+    "efConstruction": 40,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.540625,
+    "audio_to_audio_search_time": 0.050153493881225586,
+    "audio_to_melody_search_time": 0.014675617218017578,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.540625,
+    "audio_to_audio_search_time": 0.01216745376586914,
+    "audio_to_melody_search_time": 0.011501550674438477,
+    "M": 8,
+    "efConstruction": 80,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5396484375,
+    "audio_to_audio_search_time": 0.011050939559936523,
+    "audio_to_melody_search_time": 0.0015897750854492188,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.53828125,
+    "audio_to_audio_search_time": 0.012223482131958008,
+    "audio_to_melody_search_time": 0.0039823055267333984,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.537890625,
+    "audio_to_audio_search_time": 0.006537199020385742,
+    "audio_to_melody_search_time": 0.027894020080566406,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.537890625,
+    "audio_to_audio_search_time": 0.0018835067749023438,
+    "audio_to_melody_search_time": 0.002401590347290039,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5375,
+    "audio_to_audio_search_time": 0.019756555557250977,
+    "audio_to_melody_search_time": 0.011928558349609375,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5373046875,
+    "audio_to_audio_search_time": 0.031830787658691406,
+    "audio_to_melody_search_time": 0.003980159759521484,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5369140625,
+    "audio_to_audio_search_time": 0.030663251876831055,
+    "audio_to_melody_search_time": 0.026543617248535156,
+    "M": 8,
+    "efConstruction": 256,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5359375,
+    "audio_to_audio_search_time": 0.004179954528808594,
+    "audio_to_melody_search_time": 0.003983974456787109,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5359375,
+    "audio_to_audio_search_time": 0.012490987777709961,
+    "audio_to_melody_search_time": 0.00497746467590332,
+    "M": 8,
+    "efConstruction": 128,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.535546875,
+    "audio_to_audio_search_time": 0.0017964839935302734,
+    "audio_to_melody_search_time": 0.0015573501586914062,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5353515625,
+    "audio_to_audio_search_time": 0.026192903518676758,
+    "audio_to_melody_search_time": 0.012113809585571289,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5353515625,
+    "audio_to_audio_search_time": 0.020487546920776367,
+    "audio_to_melody_search_time": 0.02986288070678711,
+    "M": 8,
+    "efConstruction": 1024,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.534765625,
+    "audio_to_audio_search_time": 0.0018339157104492188,
+    "audio_to_melody_search_time": 0.0015802383422851562,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5345703125,
+    "audio_to_audio_search_time": 0.03082108497619629,
+    "audio_to_melody_search_time": 0.030849218368530273,
+    "M": 8,
+    "efConstruction": 64,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5345703125,
+    "audio_to_audio_search_time": 0.013258695602416992,
+    "audio_to_melody_search_time": 0.011737346649169922,
+    "M": 8,
+    "efConstruction": 640,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.534375,
+    "audio_to_audio_search_time": 0.004792451858520508,
+    "audio_to_melody_search_time": 0.005192756652832031,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5337890625,
+    "audio_to_audio_search_time": 0.03107619285583496,
+    "audio_to_melody_search_time": 0.009641885757446289,
+    "M": 8,
+    "efConstruction": 2560,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.53359375,
+    "audio_to_audio_search_time": 0.0018045902252197266,
+    "audio_to_melody_search_time": 0.0015788078308105469,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5326171875,
+    "audio_to_audio_search_time": 0.0026798248291015625,
+    "audio_to_melody_search_time": 0.0029866695404052734,
+    "M": 8,
+    "efConstruction": 160,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5326171875,
+    "audio_to_audio_search_time": 0.0306851863861084,
+    "audio_to_melody_search_time": 0.030265092849731445,
+    "M": 8,
+    "efConstruction": 512,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.532421875,
+    "audio_to_audio_search_time": 0.019464731216430664,
+    "audio_to_melody_search_time": 0.010651588439941406,
+    "M": 8,
+    "efConstruction": 320,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5318359375,
+    "audio_to_audio_search_time": 0.030887603759765625,
+    "audio_to_melody_search_time": 0.030904769897460938,
+    "M": 8,
+    "efConstruction": 1280,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.528515625,
+    "audio_to_audio_search_time": 0.01501774787902832,
+    "audio_to_melody_search_time": 0.01251363754272461,
+    "M": 8,
+    "efConstruction": 3200,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5283203125,
+    "audio_to_audio_search_time": 0.031012773513793945,
+    "audio_to_melody_search_time": 0.031000852584838867,
+    "M": 8,
+    "efConstruction": 2048,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5265625,
+    "audio_to_audio_search_time": 0.014889240264892578,
+    "audio_to_melody_search_time": 0.010454416275024414,
+    "M": 8,
+    "efConstruction": 40,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.5251953125,
+    "audio_to_audio_search_time": 0.004572629928588867,
+    "audio_to_melody_search_time": 0.003983020782470703,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 8
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4474609375,
+    "audio_to_audio_search_time": 0.026511669158935547,
+    "audio_to_melody_search_time": 0.0013027191162109375,
+    "M": 4,
+    "efConstruction": 128,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4462890625,
+    "audio_to_audio_search_time": 0.005126476287841797,
+    "audio_to_melody_search_time": 0.010010480880737305,
+    "M": 4,
+    "efConstruction": 1024,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.44609375,
+    "audio_to_audio_search_time": 0.0012218952178955078,
+    "audio_to_melody_search_time": 0.0011262893676757812,
+    "M": 4,
+    "efConstruction": 80,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.444921875,
+    "audio_to_audio_search_time": 0.001752614974975586,
+    "audio_to_melody_search_time": 0.0011186599731445312,
+    "M": 4,
+    "efConstruction": 2048,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.444921875,
+    "audio_to_audio_search_time": 0.001813650131225586,
+    "audio_to_melody_search_time": 0.0016252994537353516,
+    "M": 4,
+    "efConstruction": 2560,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.44453125,
+    "audio_to_audio_search_time": 0.01447439193725586,
+    "audio_to_melody_search_time": 0.016172409057617188,
+    "M": 4,
+    "efConstruction": 640,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4443359375,
+    "audio_to_audio_search_time": 0.01448678970336914,
+    "audio_to_melody_search_time": 0.014458656311035156,
+    "M": 4,
+    "efConstruction": 64,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.44375,
+    "audio_to_audio_search_time": 0.002470731735229492,
+    "audio_to_melody_search_time": 0.002489805221557617,
+    "M": 4,
+    "efConstruction": 160,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.443359375,
+    "audio_to_audio_search_time": 0.011742830276489258,
+    "audio_to_melody_search_time": 0.002479076385498047,
+    "M": 4,
+    "efConstruction": 3200,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4421875,
+    "audio_to_audio_search_time": 0.011093616485595703,
+    "audio_to_melody_search_time": 0.00116729736328125,
+    "M": 4,
+    "efConstruction": 512,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4408203125,
+    "audio_to_audio_search_time": 0.011355161666870117,
+    "audio_to_melody_search_time": 0.0012743473052978516,
+    "M": 4,
+    "efConstruction": 256,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4408203125,
+    "audio_to_audio_search_time": 0.006084442138671875,
+    "audio_to_melody_search_time": 0.009019851684570312,
+    "M": 4,
+    "efConstruction": 320,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.440625,
+    "audio_to_audio_search_time": 0.030431747436523438,
+    "audio_to_melody_search_time": 0.020648479461669922,
+    "M": 4,
+    "efConstruction": 1280,
+    "efSearch": 4
+  },
+  {
+    "index_type": "HNSW",
+    "k": 1,
+    "average_intersection_rate": 0.4369140625,
+    "audio_to_audio_search_time": 0.0058214664459228516,
+    "audio_to_melody_search_time": 0.0013034343719482422,
+    "M": 4,
+    "efConstruction": 40,
+    "efSearch": 4
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3662109375,
+    "audio_to_audio_search_time": 0.02291417121887207,
+    "audio_to_melody_search_time": 0.018014192581176758,
+    "nlist": 50,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3662109375,
+    "audio_to_audio_search_time": 0.01516103744506836,
+    "audio_to_melody_search_time": 0.022305965423583984,
+    "nlist": 50,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3662109375,
+    "audio_to_audio_search_time": 0.003865957260131836,
+    "audio_to_melody_search_time": 0.003258943557739258,
+    "nlist": 50,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3404296875,
+    "audio_to_audio_search_time": 0.018282175064086914,
+    "audio_to_melody_search_time": 0.010758161544799805,
+    "nlist": 71,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.316796875,
+    "audio_to_audio_search_time": 0.004201650619506836,
+    "audio_to_melody_search_time": 0.0034279823303222656,
+    "nlist": 142,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.31640625,
+    "audio_to_audio_search_time": 0.021013498306274414,
+    "audio_to_melody_search_time": 0.015525102615356445,
+    "nlist": 1136,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3052734375,
+    "audio_to_audio_search_time": 0.009650468826293945,
+    "audio_to_melody_search_time": 0.012798786163330078,
+    "nlist": 284,
+    "nprobe": 1
+  },
+  {
+    "index_type": "IVF",
+    "k": 1,
+    "average_intersection_rate": 0.3001953125,
+    "audio_to_audio_search_time": 0.01800060272216797,
+    "audio_to_melody_search_time": 0.012399435043334961,
+    "nlist": 568,
+    "nprobe": 1
+  }
+]
